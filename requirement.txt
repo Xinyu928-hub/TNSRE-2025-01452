@@ -1,0 +1,8 @@
+conda create -n "name" python=3.8
+torch-1.9.0+cu111-cp38-cp38-win_amd64.whl
+pylsl==1.16.2
+cvxpy
+matplotlib
+numpy
+scipy
+tqdm

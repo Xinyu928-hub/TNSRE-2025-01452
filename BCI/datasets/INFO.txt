@@ -1,0 +1,8 @@
+samPoints*channels*epoch
+Fz=500hz
+T = 12s
+f1 = 13Hz
+f2 = 12Hz
+f3 = 11Hz
+f4 = 10Hz
+f5 = 9Hz
